@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **前言：在Github上部署自己的博客网站，首先的有自己的Gighub账号。**
 
 # 环境准备
@@ -89,7 +88,3 @@ git commit -m \"Initial commit\"
 
 # 推送到远程仓库的 main 分支（-u 设置默认上游分支）
 git push -u origin main
-=======
-# bigmasterQi.github.io
-my blog
->>>>>>> 136b54ff920ada680d01264590ff3ffe03d0105f
